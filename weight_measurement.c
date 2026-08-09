@@ -1,4 +1,3 @@
-/* weight measurement respect to the age of user*/
 
 #include<stdio.h>
 
