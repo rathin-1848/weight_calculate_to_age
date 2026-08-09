@@ -1,4 +1,4 @@
-/* weight measurement respect to the age of user*/
+/* weight measurement respect to the age of client*/
 
 #include<stdio.h>
 
